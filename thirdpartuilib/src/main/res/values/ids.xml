@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="refresh_layout" type="id"/>
+    <item name="toolbar" type="id"/>
+    <item name="main_container" type="id"/>
+    <item name="error_container" type="id"/>
+    <item name="loading_container" type="id"/>
+</resources>
