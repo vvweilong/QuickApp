@@ -1,2 +1,5 @@
 rootProject.name='quickApp'
-include ':app', ':netlib', ':thirdpartuilib', ':utillib'
+include ':netlib', ':utillib'
+include ':sample'
+include ':baselogiclib'
+include ':uilibrary'
