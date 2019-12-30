@@ -10,6 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/annotationlib" />
             <option value="$PROJECT_DIR$/baselogiclib" />
             <option value="$PROJECT_DIR$/netlib" />
             <option value="$PROJECT_DIR$/sample" />
